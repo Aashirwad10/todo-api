@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5393fc28-d516-45ae-bd50-d85ac9899202)# 📝 Todo API
+📝 Todo API
 
 A simple and beginner-friendly CRUD API built with **Node.js**, **Express**, and **MongoDB** using **Mongoose**.
 
