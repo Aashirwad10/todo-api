@@ -67,7 +67,7 @@ Here are some example requests and responses using Postman to demonstrate how th
 
 
     ```
-    image here!
+    ![Create Todo](./assets/createTodo.png)
     ```
 
 
