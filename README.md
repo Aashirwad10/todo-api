@@ -65,7 +65,8 @@ Here are some example requests and responses using Postman to demonstrate how th
 1. **POST create todo**
     - `http://localhost:5000/api/todos`  
 
-    <img src="./assets/createTodo.png" width="500"/>
+    ![Create Todo](./assets/createTodo.png)
+
 
 
 
