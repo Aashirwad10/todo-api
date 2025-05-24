@@ -10,7 +10,7 @@ const app = express();
 
 app.use(express.json());
 
-app.post("/api/todos",async(req,res)=>{
+app.post("/api/todos",async(req,res)=>{ // create a todo
     const todo = req.body;
 
     if(!todo.title){
@@ -36,7 +36,7 @@ app.post("/api/todos",async(req,res)=>{
     }
 });  
 
-app.get("/api/todos",async(req,res)=>{
+app.get("/api/todos",async(req,res)=>{ // get all todos
     try{
         const todos = await Todo.find();
         return res.status(200).json({
@@ -51,7 +51,7 @@ app.get("/api/todos",async(req,res)=>{
     }
 });
 
-app.put("/api/todos/:id",async(req,res)=>{
+app.put("/api/todos/:id",async(req,res)=>{ // update a todo
     const {id} = req.params;
     const todo = req.body;
 
@@ -77,7 +77,7 @@ app.put("/api/todos/:id",async(req,res)=>{
     }
 });
 
-app.delete("/api/todos/:id",async(req,res)=>{
+app.delete("/api/todos/:id",async(req,res)=>{ // delete a todo
     const {id} = req.params;
     try{
         await Todo.findByIdAndDelete(id);
