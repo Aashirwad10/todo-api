@@ -47,7 +47,7 @@ A simple and beginner-friendly CRUD API built with **Node.js**, **Express**, and
     - Add your MongoDB URI like this:
 
       ```
-      MONGO_URI=mongodb://localhost:27017/todo-api
+      MONGO_URI= mongodb+srv://abcdefghijklmnopqrstuvwxyz
       ```
 
 4. **Run the server**
