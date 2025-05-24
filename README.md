@@ -31,13 +31,13 @@ A simple and beginner-friendly CRUD API built with **Node.js**, **Express**, and
 
 1. **Clone the repository**
 
-    ```bash
+    ```
     git clone https://github.com/Aashirwad10/todo-api.git
     cd todo-api
     ```
 2. **Install dependencies**
 
-    ```bash
+    ```
     npm install
     ```
 
@@ -52,10 +52,22 @@ A simple and beginner-friendly CRUD API built with **Node.js**, **Express**, and
 
 4. **Run the server**
 
-    ```bash
+    ```
     npm run dev
     ```
 
 Server runs on `http://localhost:5000` (or your specified port)
+
+## 📸 API Examples
+    
+Here are some example requests and responses using Postman to demonstrate how the API works:
+
+1. **POST create todo**
+
+    - `http://localhost:5000/api/todos` 
+     
+    ```
+    ![image](https://github.com/user-attachments/assets/96c06021-716b-4379-86cd-5a265401374d)
+    ```
 
 
