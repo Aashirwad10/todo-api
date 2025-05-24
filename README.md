@@ -1,4 +1,4 @@
-# 📝 Todo API
+![image](https://github.com/user-attachments/assets/5393fc28-d516-45ae-bd50-d85ac9899202)# 📝 Todo API
 
 A simple and beginner-friendly CRUD API built with **Node.js**, **Express**, and **MongoDB** using **Mongoose**.
 
@@ -66,6 +66,21 @@ Here are some example requests and responses using Postman to demonstrate how th
     - `http://localhost:5000/api/todos`  
 
     ![Create Todo](./assets/createTodo.png)
+
+2. **GET get all todo**
+    - `http://localhost:5000/api/todos`  
+
+    ![Create Todo](./assets/getAllTodo.png)
+
+3. **PUT update todo**
+    - `http://localhost:5000/api/todos/6831ce6f5cd489709c1f4561`  
+
+    ![Create Todo](./assets/updateTodo.png)
+
+4. **DEL delete todo**
+    - `http://localhost:5000/api/todos/6831ce6f5cd489709c1f4561`  
+
+    ![Create Todo](./assets/deleteTodo.png)
 
 
 
