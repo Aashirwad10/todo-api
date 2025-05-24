@@ -67,7 +67,7 @@ Here are some example requests and responses using Postman to demonstrate how th
     - `http://localhost:5000/api/todos` 
      
     ```
-    ![image](https://github.com/user-attachments/assets/96c06021-716b-4379-86cd-5a265401374d)
+    <img src='hhttps://github.com/user-attachments/assets/96c06021-716b-4379-86cd-5a265401374d' width=300>
     ```
 
 
