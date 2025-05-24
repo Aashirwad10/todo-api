@@ -56,6 +56,6 @@ A simple and beginner-friendly CRUD API built with **Node.js**, **Express**, and
     npm run dev
     ```
 
-Server runs on `http://localhost:3000` (or your specified port)
+Server runs on `http://localhost:5000` (or your specified port)
 
 
