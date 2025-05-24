@@ -63,7 +63,6 @@ Server runs on `http://localhost:5000` (or your specified port)
 Here are some example requests and responses using Postman to demonstrate how the API works:
 
 1. **POST create todo**
-
     - `http://localhost:5000/api/todos` 
 
 
