@@ -30,7 +30,6 @@ A simple and beginner-friendly CRUD API built with **Node.js**, **Express**, and
 | GET    | `/api/todos`      | Get all todos        |
 | PUT    | `/api/todos/:id`  | Update a todo        |
 | DELETE | `/api/todos/:id`  | Delete a todo        |
-|--------|-------------------|----------------------|
 
 ## 🔧 Setup Instructions
 
