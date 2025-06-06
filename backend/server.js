@@ -1,10 +1,10 @@
 import express from "express";
-import dotevn from "dotenv";
+import dotenv from "dotenv";
 import Todo from "./models/todo.model.js";
 import { connectDB } from "./config/db.js";
 import mongoose from "mongoose";
 
-dotevn.config();
+dotenv.config();
 
 const app = express();
 
