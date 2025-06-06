@@ -1,6 +1,10 @@
-![image](https://github.com/user-attachments/assets/5393fc28-d516-45ae-bd50-d85ac9899202)# 📝 Todo API
+📝 Todo API
 
 A simple and beginner-friendly CRUD API built with **Node.js**, **Express**, and **MongoDB** using **Mongoose**.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🚀 Features
 
@@ -81,6 +85,23 @@ Here are some example requests and responses using Postman to demonstrate how th
     - `http://localhost:5000/api/todos/6831ce6f5cd489709c1f4561`  
 
     ![Create Todo](./assets/deleteTodo.png)
+---
+
+## 🙋‍♂️ About Me
+
+This is a beginner-level project built as part of my learning journey in backend development.  
+I'm currently focused on building simple APIs, interacting with databases (MongoDB), and testing everything using Postman.  
+There’s no frontend — just pure backend.
+
+If you'd like to suggest improvements or just say hi, feel free to reach out:
+
+- 📧 Email: backend.aashirwad@gmail.com  
+- 📱 Instagram or Facebook: Linked in my GitHub profile bio
+
+Thanks for checking out the project! 🙇‍♂️
+
+Made with ❤️ while learning backend development.
+
 
 
 
